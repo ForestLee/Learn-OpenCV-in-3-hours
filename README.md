@@ -1,6 +1,6 @@
 # LEARN OPENCV IN 3 HOURS USING PYTHON - INCLUDING EXAMPLE PROJECTS
 [![视频地址](https://www.bilibili.com/video/BV16K411W7x9)
-
+https://www.bilibili.com/video/BV16K411W7x9
 
 # What will you learn ?
 </br>
